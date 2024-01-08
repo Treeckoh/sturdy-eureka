@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 25 15:59:37 2023
 
-@author: paine
+@author: Tom
 """
 #other files
 from spotify_auth import *
